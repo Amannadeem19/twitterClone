@@ -1,0 +1,8 @@
+spring web
+spring web devtools
+spring security
+lambok
+validation
+jwt jackson, api, impl (all need as a dependency) from maven repository
+spring data jpa
+mysql driver
